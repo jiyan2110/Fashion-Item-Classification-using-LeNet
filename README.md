@@ -15,9 +15,3 @@ This project implements a Convolutional Neural Network (CNN) based on the classi
 - Python
 - TensorFlow / Keras
 - NumPy, Matplotlib
-
-## 🎯 Objective
-To build an efficient deep learning model for accurate classification of fashion items and understand how classical CNN architectures like LeNet perform on modern datasets.
-
-## 👨‍💻 Contributors
-Jiyan Bhatt, [Your Teammates if any]
